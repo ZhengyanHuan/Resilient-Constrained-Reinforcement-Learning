@@ -17,7 +17,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-==============================================================================
+====================================================================
 
 Acknowledgment
 
@@ -27,7 +27,7 @@ https://github.com/jb3618columbia/Optimality-Guarantees-for-Policy-Gradient-Meth
 
 The reference: Global Optimality Guarantees For Policy Gradient Methods, J. Bhandari and D. Russo
 
-==============================================================================
+====================================================================
 
 ## Description
  
@@ -44,68 +44,68 @@ executing our Jupyter Notebook documents, accordingly. The requirements are:
   
   Python 3, NumPy, Matplotlib, Cvxopt, and SciPy. 
 
-==============================================================================
+====================================================================
 
 Convergence performance of ResPG-PD and ResOPG-PD in policy search problem (Section D.1)
 
 (1) Resilient_RL_PolicySearch.ipynb(sec:Plot reward, utility and relaxation vs iterations) ----------> Figure 3, Figure 11 and Figure 12
 
 
-==============================================================================
+====================================================================
 
 Optimality gap of RPG-PD, OPG-PD, and dual methods in policy search problem (Section D.1)
 
 (1) Resilient_RL_PolicySearch.ipynb(sec:Plot reward, utility, relaxation, policy optimality gaps) ---> Figure 2 and Figures 13-15
 
 
-==============================================================================
+====================================================================
 
 Convergence performance of ResPG-PD and ResOPG-PD in policy search problem with different relaxation costs (Section D.1)
 
 (1) Resilient_RL_PolicySearch.ipynb(sec:Reward, utility, relaxation vs alpha) -----------------------> Figure 4
 
 
-==============================================================================
+====================================================================
 
 Convergence performance of ResPG-PD and ResOPG-PD in monitoring problem (small state space, Section D.2)
 
 (1) Resilient_RL_Monitoring_D2.ipynb(sec:Plot reward, utility and relaxation vs iterations) ------------> Figure 6, Figure 16 and Figure 17
 
 
-==============================================================================
+====================================================================
 
 Optimality gap of RPG-PD, OPG-PD, and dual methods in monitoring problem (small state space, Section D.2)
 
 (1) Resilient_RL_Monitoring_D2.ipynb(sec:Plot reward, utility, relaxation optimality gaps) -------------> Figure 18-20
 
 
-==============================================================================
+====================================================================
 
 Convergence performance of ResPG-PD and ResOPG-PD in monitoring problem (small state space, Section D.2) with different relaxation costs 
  
 (1) Resilient_RL_Monitoring_D2.ipynb(sec:Reward, relaxation vs alpha) ----------------------------------> Figure 7
 
-==============================================================================
+====================================================================
 
 Convergence performance of ResPG-PD and ResOPG-PD in monitoring problem (large state space, Section D.3)
 
 (1) Resilient_RL_Monitoring_D3.ipynb(sec:Plot reward, utility and relaxation vs iterations) ------------> Figure 9, Figure 21 and Figure 22
 
 
-==============================================================================
+====================================================================
  
 Optimality gap of RPG-PD, OPG-PD, and dual methods in monitoring problem (large state space, Section D.3)
 
 (1) Resilient_RL_Monitoring_D3.ipynb(sec:Plot reward, utility, relaxation optimality gaps) -------------> Figure 23-25
 
 
-==============================================================================
+====================================================================
 
 Convergence performance of ResPG-PD and ResOPG-PD in monitoring problem (large state space, Section D.2) with different relaxation costs 
 
 (1) Resilient_RL_Monitoring_D3.ipynb(sec:Reward, relaxation vs alpha) ----------------------------------> Figure 10
 
-==============================================================================
+====================================================================
 
 Policy of ResPG-PD and ResOPG-PD in monitoring problem (large state space, Section D.2)
 
