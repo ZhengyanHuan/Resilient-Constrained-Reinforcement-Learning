@@ -1,5 +1,6 @@
 # Resilient-Constrained-Reinforcement-Learning
 
+Link to the paper: https://arxiv.org/abs/2312.17194
 
 Copyright (c) [2023] 
 [The Authors of Resilient Constrained Reinforcement Learning]
