@@ -2,7 +2,7 @@
 
 Link to the paper: https://arxiv.org/abs/2312.17194
 
-Copyright (c) [2023] 
+Copyright (c) [2024] 
 [The Authors of Resilient Constrained Reinforcement Learning]
 All Rights Reserved.
 
